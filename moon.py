@@ -36,7 +36,7 @@ def help(client, message):
         quote=False,
         reply_markup=InlineKeyboardMarkup(
             [[
-                    InlineKeyboardButton('💌 ʙᴇɴɪ ɢʀᴜʙᴀ ᴇᴋʟᴇ 💌', url=f'http://t.me/EpikDownloadsBot?startgroup=new'),
+                    InlineKeyboardButton('💌 ʙᴇɴɪ ɢʀᴜʙᴀ ᴇᴋʟᴇ 💌', url=f'http://t.me/Checkv22_bot?startgroup=new'),
                   ],[
                     InlineKeyboardButton('📚 ᴋᴀɴᴀʟ', url=f'https://t.me/EpikDuyuru')
                   ],[
